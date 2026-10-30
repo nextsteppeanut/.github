@@ -1,10 +1,8 @@
-<img src="R-2778525-1342111102-9904.jpg" width="100%">
+<img src="lyrics.jpeg" width="100%">
 <div class="center">
   <img src="unnamed.jpg">
 </div>
-
-<!--<article>
-<ul>
+<!--<ul>
 <li><a href="https://www.cambus.net/cross-building-netbsd-on-linux/">Cross building NetBSD on Linux</a></li>
 <li><a href ="https://man.freebsd.org/cgi/man.cgi?query=os-release&sektion=&manpath=freebsd-release-ports">OS-RELEASE(5)</a></li>
 </ul>-->
