@@ -1,6 +1,6 @@
 <img src="images.jpeg" width="100%">
 <div class="center">
-  <img class= src="unnamed.jpg">
+  <img src="unnamed.jpg">
 </div>
 
 <!--<article>
