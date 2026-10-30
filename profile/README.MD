@@ -1,5 +1,8 @@
 <img src="images.jpeg" width="100%">
-<img src="unnamed.jpg">
+<div class="center">
+  <img class= src="unnamed.jpg">
+</div>
+
 <!--<article>
 <ul>
 <li><a href="https://www.cambus.net/cross-building-netbsd-on-linux/">Cross building NetBSD on Linux</a></li>
