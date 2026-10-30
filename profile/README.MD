@@ -2,5 +2,5 @@
 <p align="center">
     <img src="unnamed.jpg">
 <p>
-<p class="s90">Copyright &copy; 2009-2026 Jonathan David Allen Moore</p>
+<p class="s90">Copyright &copy; 1999-2026 Jonathan David Allen Moore</p>
 
