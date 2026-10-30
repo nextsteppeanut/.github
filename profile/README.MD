@@ -1,4 +1,4 @@
-<img src="lyrics.jpeg" width="100%">
+<img src="R-2778525-1342111102-9904.jpg" width="100%">
 <div class="center">
   <img src="unnamed.jpg">
 </div>
